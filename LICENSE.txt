@@ -1,6 +1,13 @@
-MIT License
+Copyright (c) 2026 Anum Mubashar Iqbal. All rights reserved, except as
+expressly stated in Part 1 below.
 
-Copyright (c) 2026 Anum Mubashar Iqbal
+=======================================================================
+PART 1: SOURCE CODE (MIT License)
+=======================================================================
+
+The source code in this repository (the HTML, CSS, JavaScript and
+configuration files, such as index.html and _headers), EXCLUDING the
+Personal Content defined in Part 2, is licensed under the MIT License:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +26,44 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+=======================================================================
+PART 2: PERSONAL CONTENT (ALL RIGHTS RESERVED, NOT OPEN SOURCE)
+=======================================================================
+
+"Personal Content" means:
+
+  (a) all photographs and images of the author, including "My Pic.jpg"
+      and any copy of such an image embedded inside index.html or any
+      other file (for example as base64 data);
+  (b) all paintings and artwork created by the author, including
+      "Painting 1.jpg" through "Painting 6.jpg"; and
+  (c) "Favicon.jpg" and any other image, photograph or artwork added to
+      this repository by the author.
+
+Personal Content is NOT covered by the MIT License in Part 1. It remains
+the exclusive property of Anum Mubashar Iqbal, and ALL RIGHTS ARE
+RESERVED.
+
+Without prior written permission from the author, you may NOT:
+
+  - copy, reproduce, download for republication, or redistribute any
+    Personal Content;
+  - publish, post, display, or exhibit any Personal Content in public,
+    online or offline (including on websites, social media, portfolios,
+    print, or presentations);
+  - modify, edit, crop, adapt, or create derivative works from any
+    Personal Content;
+  - use any Personal Content for any commercial purpose; or
+  - claim any Personal Content as your own work or remove any
+    attribution to the author.
+
+Viewing the Personal Content on this repository or the author's website
+for your own private, non-public, personal use is permitted.
+
+If you reuse the source code from Part 1 (for example, as a template for
+your own portfolio), you must first remove all Personal Content and
+replace it with your own material.
+
+To request permission to use any Personal Content, contact the author at
+anummubashariqbal@gmail.com.
